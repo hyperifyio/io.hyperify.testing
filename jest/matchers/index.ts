@@ -1,6 +1,6 @@
 // Copyright (c) 2023. Heusala Group Oy <info@heusalagroup.fi>. All rights reserved.
 
-import "./index";
+import "./globals.d";
 import "./toBeIsoDateString";
 import "./toBeNonEmptyString";
 import "./toBeBoolean";
